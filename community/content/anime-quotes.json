@@ -1,4 +1,10 @@
-[
+{
+  "japanese": "マママママ",
+  "romaji": "Mama mama mama",
+  "english": "Mama mama mama.",
+  "anime": "One Piece",
+  "character": "Charlotte Linlin (Big Mom)"
+},
   {
     "japanese": "人の夢は終わらねぇ！",
     "romaji": "Hito no yume wa owaranee!",
@@ -551,12 +557,7 @@
   "english": "Those who don't take care of their comrades are worse than scum. (alt wording 34)",
   "anime": "Naruto",
   "character": "Kakashi Hatake"
-},
-{
-  "japanese": "マママママ",
-  "romaji": "Mama mama mama",
-  "english": "Mama mama mama.",
-  "anime": "One Piece",
-  "character": "Charlotte Linlin (Big Mom)"
 }
+
+  
 ]
